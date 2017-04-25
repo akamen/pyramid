@@ -35,7 +35,7 @@ install_requires = [
     'translationstring >= 0.4', # py3 compat
     'PasteDeploy >= 1.5.0', # py3 compat
     'hupper',
-    ]
+    }
 
 tests_require = [
     'WebTest >= 1.3.1', # py3 compat
